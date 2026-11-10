@@ -17,6 +17,7 @@ PKG_MESON_OPTS_TARGET="-Dbenchmark=disabled \
                        -Dfreetype=enabled \
                        -Dglib=enabled \
                        -Dgobject=disabled \
+                       -Dgpu=disabled \
                        -Dgraphite=disabled \
                        -Dicu=disabled \
                        -Dtests=disabled"
